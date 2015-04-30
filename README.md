@@ -1,4 +1,4 @@
-# pam-face-authentication
+#PAM face authentification
 ## What is this about? ##
 PAM Face Authentication is a pluggable authentication module designed for facial authentication. You can use this module for any service that requires authentication, internally handled by the PAM library.
 
